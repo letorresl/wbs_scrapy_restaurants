@@ -1,0 +1,17 @@
+## Files
+
+# Python compiled modules
+*.pyc
+
+
+## Directories
+
+# IPython checkpoints
+.ipynb_checkpoints/
+# CSV data
+csv/
+# setuptools distribution folder
+/dist/
+# Python egg metadata, generated from source tools by setuptools
+/*.egg-info/
+/*.egg/
